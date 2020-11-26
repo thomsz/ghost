@@ -11,7 +11,7 @@ import { TextField, LinearProgress, Box, Typography } from '@material-ui/core';
 const manager = (props) => {
 	return (
 		<div>
-			<h1>Ghost: Boring ToDos</h1>
+			<h1>Ghost: not Boring ToDos</h1>
 			<TextField
 				id="outlined-basic"
 				label="New boring TODO"
